@@ -21,4 +21,4 @@ The Tableau project consists of multiple visualizations covering different aspec
 ### Dashboard
 The Tableau dashboard combines all the visualizations mentioned above into a cohesive and interactive user interface, allowing stakeholders to explore the data comprehensively.
 
-### You can access the Tableau dashboard using the following link: "https://public.tableau.com/app/profile/khushi.kasera3607/viz/Swiggy_Dashboard/Dashboard?publish=yes"
+You can access the Tableau dashboard using the following link: "https://public.tableau.com/app/profile/khushi.kasera3607/viz/Swiggy_Dashboard/Dashboard?publish=yes"
